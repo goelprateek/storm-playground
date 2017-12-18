@@ -1,0 +1,26 @@
+.idea
+*.iml
+.metadata
+bin/
+tmp/
+.settings/
+.externalToolBuilders/
+.buildpath
+target/
+.tern-project
+.classpath
+.project
+/target/
+*/prod/*
+.springBeans
+/velocity.log.1
+/velocity.log
+/**/git.properties
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+src/main/webapp/WEB-INF/spring-rest.xml
